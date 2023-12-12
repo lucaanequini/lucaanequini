@@ -19,6 +19,7 @@ I am seeking opportunities to kickstart my career in the field of Computer Scien
   - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
   - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
   - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React
 
 
 
