@@ -13,19 +13,19 @@ I am seeking opportunities to kickstart my career in the field of Computer Scien
 ## 💻 Professional Skills
 
 - **Programming Languages:**
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
   - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
   - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
   - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
   - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+  - ![SASS](https://img.icons8.com/color/48/000000/sass.png) SASS
+  - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
   - ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-
-
 
 ## 📬 Contact
 
 - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)
-- [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:your.email@example.com)
+- [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:lucanequini@gmail.com)
 
 Feel free to follow me and get in touch. Excited to collaborate on interesting projects and learn from the GitHub community! 😊✨
