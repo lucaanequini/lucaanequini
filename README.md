@@ -13,15 +13,10 @@ I am seeking opportunities to kickstart my career in the field of Computer Scien
 ## 💻 Professional Skills
 
 - **Programming Languages:**
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-  - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-  - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-  - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-  - ![SASS](https://img.icons8.com/color/48/000000/sass.png) SASS
-  - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
-  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) ![NextJS](https://img.icons8.com/color/48/000000/nextjs.png)
+
+- **Databases:**
+  - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 📬 Contact
 
