@@ -20,7 +20,7 @@ I am seeking opportunities to kickstart my career in the field of Computer Scien
 
 ## 📬 Contact
 
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/luca-anequini-antoniazzi/)
 - [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:lucanequini@gmail.com)
 
 Feel free to follow me and get in touch. Excited to collaborate on interesting projects and learn from the GitHub community! 😊✨
