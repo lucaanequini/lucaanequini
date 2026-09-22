@@ -1,26 +1,83 @@
-# 👋 Welcome to My GitHub Profile!
+# Hi, I'm Luca 👋
 
-## 🎓 Academic Background
+### Software Engineer · Software Architecture · Data · Distributed Systems
 
-**Computer Science (2022–2025)**  
-*Inacian Educational Foundation "Pe. Sabóia de Medeiros" (FEI), São Bernardo do Campo Campus*
+I'm a **Software Engineer** focused on building scalable applications, distributed systems, and data-driven solutions.
 
-## 💻 Technologies I Have More Experience With
+I work across **backend, frontend, databases, cloud infrastructure, and real-time systems**, with experience applying these technologies to robotics, financial applications, and other data-intensive systems.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+---
 
-## 📬 Contact
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-anequini-antoniazzi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucanequini@gmail.com)
+🎓 **MBA in Software Engineering** — FIAP  
+🎓 **B.Sc. in Computer Science** — FEI · 2022–2025  
+💻 **Software Engineer** at Robotec Solutions  
+🏗️ Interested in **Software Architecture & Distributed Systems**  
+📊 Interested in **Data & Financial Systems**  
+⚡ Passionate about building **scalable and reliable software**
 
-Feel free to follow me and get in touch. I am excited to collaborate on interesting projects and learn from the GitHub community! 😊✨
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,go" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs" />
+  <img src="https://cdn.simpleicons.org/blazor/512BD4" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+### Data, Cloud & Tools
+
+`SQL` · `Azure` · `GitHub Actions` · `Git`
+
+### Architecture & Communication
+
+`REST APIs` · `SignalR` · `WebSockets` · `Distributed Systems` · `Multi-tenancy` · `CI/CD`
+
+---
+
+## 💼 Experience
+
+My professional experience includes building **web applications, APIs, distributed systems, and data-driven solutions** across different domains.
+
+🔹 Real-time communication and integrations with autonomous robotic systems  
+🔹 Scalable and multi-tenant web applications  
+🔹 REST APIs and service integrations  
+🔹 Relational database design and query optimization  
+🔹 Data-intensive and financial applications  
+🔹 Cloud deployments and CI/CD pipelines  
+🔹 System performance, scalability, and reliability  
+
+---
+
+## 📌 Currently
+
+🔭 Working on **software engineering and robotic systems**  
+🌱 Expanding my knowledge in **architecture, distributed systems, and data**  
+💡 Building projects and experimenting with new technologies  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:lucanequini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lucanequini%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luca-anequini-antoniazzi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luca%20Anequini%20Antoniazzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building software, solving problems, and learning continuously.</i>
+</p>
